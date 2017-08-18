@@ -79,7 +79,7 @@ pt-BR:
         by: Por
         no_comments_yet: Nenhum comentário ainda
       comments:
-        latest_comments: Últimos comentários
+        latest_comments: "Últimos comentários"
       drafts:
         no_drafts_yet: Nenhum rascunho ainda, porque você não inicia e cria um
         your_drafts: Seus rascunhos
@@ -339,7 +339,7 @@ pt-BR:
         do_not_index_tags: Não indexar tags
         dofollow: Dofollow
         explain: Here you can add anything you want to appear in your application header, such as analytics service tracking code.
-        explain_humans_txt: É uma iniciativa saber as pessoas que estão por trás de um site. É um arquivo TXT que contém informações sobre as diferentes pessoas que contribuíram para o desenvolvimento do site. http://humanstxt.org/
+        explain_humans_txt: "É uma iniciativa saber as pessoas que estão por trás de um site. É um arquivo TXT que contém informações sobre as diferentes pessoas que contribuíram para o desenvolvimento do site. http://humanstxt.org/"
         explain_moderate_feedback: You may want to moderate feedback when turning this on
         explain_rss_description: 'You can use the following tags: %author% (author name), %blog_url% (this blog URL), %blog_name% (this blog title) and %permalink_url% (a link to the article you want to protect)'
         explain_tag_index_html: Checking this box will add <code>noindex, follow</code> meta tags in every tags page, removing them from search engines and preventing duplicate content issues
@@ -748,7 +748,7 @@ pt-BR:
     zh_TW: Chinese
   layouts:
     administration:
-      powered_by: é orgulhosamente desenvolvido por
+      powered_by: "é orgulhosamente desenvolvido por"
     default:
       designed_by: Designed by %{designed_by}
       powered_by_html: Powered by %{powered_by}

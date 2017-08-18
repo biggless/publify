@@ -56,7 +56,7 @@ lt:
         save: Saugoti
         save_as_draft: Save as draft
         status: Statusas
-        tags: Žymės
+        tags: "Žymės"
         tags_explanation_html: Separate tags with commas. Use double quotes (&quot;) around multi-word tags, e.g. &quot;opera house&quot;.
         title: Pavadinimas
         type_your_post: Type your post
@@ -547,7 +547,7 @@ lt:
         download_more_plugins_html: You can download and install sidebar plugins from our official <a href='https://github.com/fdv/publify/wiki/Sidebar-plugins'>plugin repository</a>. All you have to do is upload the theme directory in your vendor/plugins directory.
         explain_how_its_works: Verwenden Sie Drag&Drop, um die Einträge der Seitenleiste ihres Blogs zu ändern. Um Einträge zu löschen, klicken Sie auf 'remove'. Änderungen sind hier sofort sichtbar, werden aber erst permanent aktiviert, wenn Sie 'Änderungen veröffentlichen' klicken.
         or: or
-        publish_changes: Änderungen veröffentlichen
+        publish_changes: "Änderungen veröffentlichen"
         sidebar: Sidebar
       target:
         drag_some_plugins_here: Ziehen Sie Plugins hierher, um sie in die Seitenleiste aufzunehmen
@@ -664,7 +664,7 @@ lt:
       comments_are_disabled: Komentavimas išjungtas
       edit: Redaguoti
       leave_a_response: Palikti atsakymą
-      rss_feed: šio įrašo RSS
+      rss_feed: "šio įrašo RSS"
       trackbacks: Trackbacks
     trackback:
       from: From

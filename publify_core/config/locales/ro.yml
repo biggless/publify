@@ -327,8 +327,8 @@ ro:
         original_size: Original size
         right_click_for_link: right-click for link
         thumbnail: Thumbnail
-        upload: Încarcă
-        upload_a_file_to_your_site: Încarcă un fișier în site
+        upload: "Încarcă"
+        upload_a_file_to_your_site: "Încarcă un fișier în site"
       upload:
         success: File uploaded
         warning: No file selected

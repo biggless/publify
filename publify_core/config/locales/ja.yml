@@ -6,7 +6,7 @@ ja:
     confirm:
       admin: admin
       dont_lose_the_mail_sent: Don't lose the mail sent at %{email} or you won't be able to login anymore
-      login: ログイン
+      login: "ログイン"
       proceed_to: Proceed to %{link}
       success: You have successfully signed up.
     create_account: Create an account
@@ -27,57 +27,57 @@ ja:
       successfully_deleted: This %{name} was deleted successfully
     content:
       access_granted:
-        error: あなたのアカウントではこの操作は許可されていません
+        error: "あなたのアカウントではこの操作は許可されていません"
       article_list:
         no_articles: There are no articles yet. Why don't you create one?
       autosave:
         success: Article was successfully saved
       create:
-        success: 記事を作成しました
+        success: "記事を作成しました"
       form:
-        allow_comments: コメントを許可
+        allow_comments: "コメントを許可"
         allow_comments_status:
           one: enabled
           zero: disabled
         allowed_comments_html: Comments are %{allow_comment}
         article_type: Article type
-        cancel: キャンセル
+        cancel: "キャンセル"
         default: Default
         now: now
         ok: OK
-        password: パスワード
-        permalink: パーマリンク
+        password: "パスワード"
+        permalink: "パーマリンク"
         preview: Preview
         protected: Protected
         public: Public
-        publish: 公開
+        publish: "公開"
         publish_settings: Publish settings
-        published: 公開済み
-        save: 保存
-        save_as_draft: 下書きとして保存
-        status: ステータス
-        tags: タグ
+        published: "公開済み"
+        save: "保存"
+        save_as_draft: "下書きとして保存"
+        status: "ステータス"
+        tags: "タグ"
         tags_explanation_html: Separate tags with commas. Use double quotes (&quot;) around multi-word tags, e.g. &quot;opera house&quot;.
-        title: タイトル
+        title: "タイトル"
         type_your_post: Type your post
         visibility: Visibility
       index:
         all_articles: All articles
-        drafts: '下書き:'
-        manage_articles: 記事の管理
+        drafts: "下書き:"
+        manage_articles: "記事の管理"
         new_article: New article
         publication_date: Publication date
         publication_pending: Publication pending
-        published: 公開済み
-        search: 検索
+        published: "公開済み"
+        search: "検索"
         select_an_author: Select an author
         withdrawn: Withdrawn
       update:
-        success: 記事が更新されました
+        success: "記事が更新されました"
     dashboard:
       comment:
         by: By
-        no_comments_yet: まだコメントはありません
+        no_comments_yet: "まだコメントはありません"
       comments:
         latest_comments: Latest Comments
       drafts:
@@ -86,12 +86,12 @@ ja:
       inbound:
         at: at
         at_an_unknown_date: at an unknown date
-        inbound_links: 外部からのリンク
+        inbound_links: "外部からのリンク"
         made_a_link_to_you_on: " からこのようにリンクされています "
-        no_one_made_link_to_you_yet: まだどこからもリンクされていません
-        you_have_no_internet_connection: インターネットに接続できません
+        no_one_made_link_to_you_yet: "まだどこからもリンクされていません"
+        you_have_no_internet_connection: "インターネットに接続できません"
       index:
-        welcome_back: お帰りなさいませ、%{user_name} 様
+        welcome_back: "お帰りなさいませ、%{user_name} 様"
       overview:
         change_your_blog_presentation: change your blog presentation
         customization_explain_html: You can also do a bit of design, %{theme_link} or %{sidebar_link}.
@@ -99,9 +99,9 @@ ja:
         enable_plugins: enable plugins
         help_explain_html: If you need help, %{doc_link}.
         read_our_documentation: read our documentation
-        update_your_profile_or_change_your_password: プロフィールを編集したりパスワードを変更する
-        write_a_page: ページを作成する
-        write_a_post: 記事を投稿する
+        update_your_profile_or_change_your_password: "プロフィールを編集したりパスワードを変更する"
+        write_a_page: "ページを作成する"
+        write_a_post: "記事を投稿する"
       publify_version:
         error: You are at least one major version of Publify out of date. You should upgrade immediately. Download and install <a href='http://publify.co/stable.tgz'>the latest Publify version</a>
         notice: There's a new version of Publify available. Why don't you upgrade to <a href='http://publify.co/stable.tgz'>the latest Publify version</a>?
@@ -119,13 +119,13 @@ ja:
         comments_count:
           one: 1 comment
           other: "%{count} comments"
-          zero: コメントなし
-        content: コンテンツ
+          zero: "コメントなし"
+        content: "コンテンツ"
         drafts_count:
           one: 1 draft
           other: "%{count} drafts"
           zero: no draft
-        feedback: フィードバック
+        feedback: "フィードバック"
         notes_count:
           one: 1 note
           other: "%{count} notes"
@@ -152,12 +152,12 @@ ja:
       article:
         action_or_other_html: "%{first_action} または %{second_action}"
         add_a_comment: Add a comment
-        author: 投稿者
-        cancel: キャンセル
+        author: "投稿者"
+        cancel: "キャンセル"
         comments_for_html: "〜へコメント%{title}"
-        email: メールアドレス
+        email: "メールアドレス"
         no_feedback: There are no feedback yet. Why don't you start and create one?
-        save: 保存
+        save: "保存"
         select_all: Select all
         url: Url
         your_comment: Your comment
@@ -175,10 +175,10 @@ ja:
           other: Marked %{count} items as Spam
           zero: No item selected to mark as Spam
       button:
-        delete_all_spam: 全てのスパムを削除する
-        delete_checked_items: チェックした行を削除
-        mark_checked_items_as_ham: チェックした行を承認する
-        mark_checked_items_as_spam: チェックした行をスパムにする
+        delete_all_spam: "全てのスパムを削除する"
+        delete_checked_items: "チェックした行を削除"
+        mark_checked_items_as_ham: "チェックした行を承認する"
+        mark_checked_items_as_spam: "チェックした行をスパムにする"
       create:
         success: Comment was successfully created.
       destroy:
@@ -191,7 +191,7 @@ ja:
         comments_for_html: Comments for %{article_link}
         edit_a_comment: Edit a comment
         email: Email
-        save: 保存
+        save: "保存"
         url: Url
         your_comment: Your comment
       ham:
@@ -199,46 +199,46 @@ ja:
         created_on: 'on'
       index:
         all: All
-        feedback: フィードバック
-        ham: 承認
+        feedback: "フィードバック"
+        ham: "承認"
         no_feedback: There is no feedback yet. Why don't you create some?
         presumed_ham: Presumed ham
         presumed_spam: Presumed spam
         select_all: Select all
-        spam: スパム
-        unapproved_comments: 未承認コメント
+        spam: "スパム"
+        unapproved_comments: "未承認コメント"
       spam:
         by: by
-        cancel: キャンセル
+        cancel: "キャンセル"
         created_on: 'on'
         this_comment_by_was_flagged_as_spam_html: This comment by %{author} was flagged as spam, %{cancel_link}?
       state:
         ham: Ham
-        just_marked_as_ham: 承認マーク
-        just_marked_as_spam: スパムマーク
-        just_presumed_ham: 承認と推定
-        presumed_ham: 承認?
-        presumed_spam: スパム?
+        just_marked_as_ham: "承認マーク"
+        just_marked_as_spam: "スパムマーク"
+        just_presumed_ham: "承認と推定"
+        presumed_ham: "承認?"
+        presumed_spam: "スパム?"
         spam: Spam
-        unclassified: 未分類
+        unclassified: "未分類"
       update:
         success: Comment was successfully updated.
     migrations:
       show:
-        current_database_version: 現在のデータベースのバージョン
-        database_migration: データベースマイグレーション
-        information: インフォメーション
-        may_take_a_moment: 少しお待ちください
+        current_database_version: "現在のデータベースのバージョン"
+        database_migration: "データベースマイグレーション"
+        information: "インフォメーション"
+        may_take_a_moment: "少しお待ちください"
         migration_pending:
           one: There is one migration pending.
           other: There are %{count} migrations pending.
         migrations: Migrations
-        needed_migrations: マイグレーションが必要です
-        update_database_now: データベースを今すぐ更新
-        you_are_up_to_date: 最新です!
+        needed_migrations: "マイグレーションが必要です"
+        update_database_now: "データベースを今すぐ更新"
+        you_are_up_to_date: "最新です!"
     notes:
       form:
-        cancel: キャンセル
+        cancel: "キャンセル"
         compose_new_note: Compose new note
         in_reply_to: In reply to
         no_notes: There are no notes yet. Why don't you create one?
@@ -246,8 +246,8 @@ ja:
         or: or
         permanent_link: Permanent link
         posse_to_twitter: POSSE to Twitter
-        publish: 公開
-        publish_at: 公開日
+        publish: "公開"
+        publish_at: "公開日"
         publish_settings: Publish settings
         tweet_id_like: Tweet id like 123456
       header:
@@ -255,83 +255,83 @@ ja:
       show:
         action_or_other_html: "%{first_action} または %{second_action}"
         are_you_sure: Are you sure you want to delete this note?
-        cancel: キャンセル
-        delete: 削除
+        cancel: "キャンセル"
+        delete: "削除"
         destroy_confirmation: Destroy confirmation
     pages:
       edit:
-        success: ページが更新されました
+        success: "ページが更新されました"
       form:
-        article_filter: 記事フィルター
-        cancel: キャンセル
+        article_filter: "記事フィルター"
+        cancel: "キャンセル"
         offline: offline
-        online: オンライン
+        online: "オンライン"
         permanent_link: Permanent link
-        publish: 公開
+        publish: "公開"
         publish_settings: Publish settings
         published: published
-        save: 保存
-        status: ステータス
-        title: タイトル
+        save: "保存"
+        status: "ステータス"
+        title: "タイトル"
         type_your_post: Type your post
       index:
-        author: 投稿者
-        manage_pages: ページの管理
+        author: "投稿者"
+        manage_pages: "ページの管理"
         new_page: New Page
-        title: タイトル
+        title: "タイトル"
       new:
-        success: ページが作成されました
+        success: "ページが作成されました"
       pages:
         no_pages: There are no pages yet. Why don't you start and create one?
     post_types:
       index_and_form:
-        cancel: キャンセル
+        cancel: "キャンセル"
         default: Default
-        description: 説明
+        description: "説明"
         explain: The template name is the filename Publify will look for when calling an article of that type. It should be in your theme under views/articles/template name.html.erb
-        name: 名前
+        name: "名前"
         or: or
         post_types: Post Types
         publify_default_post_type: Publify default post type
-        save: 保存
+        save: "保存"
         template_name: Template name
     profiles:
       index:
-        success: プロフィールが更新されました
-        your_profile: あなたのプロフィール
+        success: "プロフィールが更新されました"
+        your_profile: "あなたのプロフィール"
     redirects:
       destroy:
         success: Redirection was successfully deleted.
       index_and_form:
-        cancel: キャンセル
+        cancel: "キャンセル"
         from: From
         leave_empty_to_shorten_a_link: Leave empty to shorten a link
         no_redirects: There are no redirects yet. Why don't you start and create one?
         or: or
         redirects: Redirects
-        save: 保存
+        save: "保存"
         to: To
     resources:
       destroy:
         notice: File has been deleted
       index:
         are_you_sure: Are you sure?
-        content_type: コンテンツタイプ
-        date: 日付
+        content_type: "コンテンツタイプ"
+        date: "日付"
         delete: Delete
-        file_size: ファイルサイズ
-        filename: ファイル名
+        file_size: "ファイルサイズ"
+        filename: "ファイル名"
         media_library: Media Library
         medium_size: Medium size
         no_resources: There are no resources yet. Why don't you start and create one?
         original_size: Original size
-        right_click_for_link: 右クリックでリンク
+        right_click_for_link: "右クリックでリンク"
         thumbnail: Thumbnail
-        upload: アップロード
-        upload_a_file_to_your_site: サイトにファイルをアップロード
+        upload: "アップロード"
+        upload_a_file_to_your_site: "サイトにファイルをアップロード"
       upload:
-        success: アップロードするファイル
-        warning: アップロードできません
+        success: "アップロードするファイル"
+        warning: "アップロードできません"
     seo:
       general:
         canonical_url: Canonical Url
@@ -343,7 +343,7 @@ ja:
         explain_moderate_feedback: You may want to moderate feedback when turning this on
         explain_rss_description: 'You can use the following tags: %author% (author name), %blog_url% (this blog URL), %blog_name% (this blog title) and %permalink_url% (a link to the article you want to protect)'
         explain_tag_index_html: Checking this box will add <code>noindex, follow</code> meta tags in every tags page, removing them from search engines and preventing duplicate content issues
-        general_settings: 一般設定
+        general_settings: "一般設定"
         google: Google
         google_analytics: Google Analytics
         google_webmaster_tools_validation_link: Google Webmaster Tools validation link
@@ -375,20 +375,20 @@ ja:
         your_article_slug_html: your article slug. <strong>Using this slug is mandatory</strong>.
         your_article_year: your article year of publication.
       show:
-        cancel: キャンセル
+        cancel: "キャンセル"
         global_settings: Global settings
         or: or
         permalinks: Permalinks
         title_settings: Title settings
         update_settings: Update settings
       titles:
-        articles: 記事
+        articles: "記事"
         author_page: Author page
         dated_archives: Dated archives
         description_template: Description template
         help_on_title_settings: Help on title settings
         home: Home
-        pages: ページ
+        pages: "ページ"
         paginated_archives: Paginated archives
         replaced_by_the_archive_date: Replaced by the archive date
         replaced_by_the_content_body: Replaced by the content body
@@ -413,7 +413,7 @@ ja:
         title_template: Title template
     settings:
       display:
-        cancel: キャンセル
+        cancel: "キャンセル"
         custom_url: Custom URL shortener domain
         custom_url_help: If you have a custom domain for URL shortening, enter it here.
         date_format: Date format
@@ -434,67 +434,67 @@ ja:
       feedback:
         askimet_key: Akismetキー
         avatars_provider: Avatars provider
-        cancel: キャンセル
+        cancel: "キャンセル"
         captcha: Captcha
-        comments: コメント
-        comments_filter: コメントフィルター
-        days: 日
-        disable_comments_after: 右の期間以後のコメントを不許可にする
-        enable_comments_by_default: デフォルトでコメントを有効にする
-        enable_feedback_moderation: フィードバック承認機能を有効にする
+        comments: "コメント"
+        comments_filter: "コメントフィルター"
+        days: "日"
+        disable_comments_after: "右の期間以後のコメントを不許可にする"
+        enable_comments_by_default: "デフォルトでコメントを有効にする"
+        enable_feedback_moderation: "フィードバック承認機能を有効にする"
         enable_recaptcha: Enable reCaptcha
-        enable_spam_protection: スパムプロテクションを有効にする
-        explain_feedback_moderation: サイト全体のフィードバック承認機能を有効にすることができます。有効にするとコメントやトラックバックは承認されるまで表示されません。
+        enable_spam_protection: "スパムプロテクションを有効にする"
+        explain_feedback_moderation: "サイト全体のフィードバック承認機能を有効にすることができます。有効にするとコメントやトラックバックは承認されるまで表示されません。"
         explain_reject_comments: Publifyは指定された数のリンクが含まれているコメントやトラックバックを自動的に拒否します
-        explain_spam_protection: スパムプロテクションを有効にすると、投稿者のIPアドレスおよびその投稿内容をローカル、リモート両方のブラックリストと比較します
+        explain_spam_protection: "スパムプロテクションを有効にすると、投稿者のIPアドレスおよびその投稿内容をローカル、リモート両方のブラックリストと比較します"
         explain_spamfiltering_html: Publifyはオプションで<a href='http://akismet.com'>Akismet</a>スパムフィルタリングサービスを利用できます。これらのサービスを使用するにはAkismetに登録し、APIキーを取得する必要があります。すでにAkismetキーをお持ちであればここに入力してください
         feedback: Feedback
         feedback_settings: Feedback settings
-        max_links: 最大のリンク数
+        max_links: "最大のリンク数"
         none: none
         or: or
         remember_to_set_your_recaptcha: Remember to set your reCaptcha keys inside config/initializers/recaptcha.rb
-        set_to_0_to_never_disable_comments: コメントを不許可にしない場合は0を設定してください
-        set_to_0_to_never_reject_comments: コメントを拒否しない場合は0を設定してください
+        set_to_0_to_never_disable_comments: "コメントを不許可にしない場合は0を設定してください"
+        set_to_0_to_never_reject_comments: "コメントを拒否しない場合は0を設定してください"
         spam: Spam
         spam_protection: Spam protection
         update_settings: Update settings
       index:
-        allow_users_to_register: ユーザーに登録させる
-        blog_name: ブログ名
-        blog_subtitle: ブログサブタイトル
-        blog_url: ブログURL
-        cancel: キャンセル
-        email_address_used_to_notify: 通知の送信先メールアドレス
-        explain_allow_users_to_register_html: ユーザーがこのブログに登録するのを許可できます。デフォルトでユーザーは自分自身のプロフィールを編集する以外の権限を持たないcontributorとして登録されます。ユーザーに登録させたくない場合は、管理者であるあなた自らがユーザーを追加することができます。
+        allow_users_to_register: "ユーザーに登録させる"
+        blog_name: "ブログ名"
+        blog_subtitle: "ブログサブタイトル"
+        blog_url: "ブログURL"
+        cancel: "キャンセル"
+        email_address_used_to_notify: "通知の送信先メールアドレス"
+        explain_allow_users_to_register_html: "ユーザーがこのブログに登録するのを許可できます。デフォルトでユーザーは自分自身のプロフィールを編集する以外の権限を持たないcontributorとして登録されます。ユーザーに登録させたくない場合は、管理者であるあなた自らがユーザーを追加することができます。"
         general_settings: General settings
-        items_to_display_in_admin_lists: 管理リストに表示する行数
-        language: 言語
+        items_to_display_in_admin_lists: "管理リストに表示する行数"
+        language: "言語"
         or: or
-        source_email: メールアドレス
+        source_email: "メールアドレス"
         update_settings: Update settings
-        users: ユーザー
-        your_blog: あなたのブログ
+        users: "ユーザー"
+        your_blog: "あなたのブログ"
       update:
         error: 'Error: %{messages}'
-        success: 設定は更新されました
+        success: "設定は更新されました"
       write:
         avatar_size: Avatar size
-        cancel: キャンセル
-        display: 表示
-        example: 例
+        cancel: "キャンセル"
+        display: "表示"
+        example: "例"
         image_medium_size: Image medium size
         image_thumbnail_size: Image thumbnail size
-        latitude_longitude: 緯度、経度
+        latitude_longitude: "緯度、経度"
         media: Media
         or: or
-        publish: 公開
+        publish: "公開"
         publish_on_twitter: Publish on Twitter
         twitter_consumer_key: Twitter consumer key
         twitter_consumer_secret: Twitter consumer secret
         update_settings: Update settings
-        write: 新規作成
-        your_geoloc: あなたの緯度、経度
+        write: "新規作成"
+        your_geoloc: "あなたの緯度、経度"
     shared:
       destroy:
         are_you_sure: Are you sure you want to delete this %{element}?
@@ -513,7 +513,7 @@ ja:
         global_seo_settings: Global SEO settings
         in_page_plugins: In page plugins
         logged_in_as: Logged in as %{login}
-        logout_html: ログアウト &raquo;
+        logout_html: "ログアウト &raquo;"
         manage_users: Manage Users
         media_library: Media Library
         new: New
@@ -523,8 +523,8 @@ ja:
         new_page: New Page
         notes: Notes
         pages: Pages
-        permalinks: パーマリンク
-        profile: プロフィール
+        permalinks: "パーマリンク"
+        profile: "プロフィール"
         redirects: Redirects
         report_a_bug: Report a bug
         seo: SEO
@@ -539,56 +539,56 @@ ja:
         registered_your_application: registered your application
     sidebar:
       config:
-        active_sidebar_items: 有効なサイドバー項目
-        available_items: 利用可能な項目
+        active_sidebar_items: "有効なサイドバー項目"
+        available_items: "利用可能な項目"
         you_have_no_plugins_installed: You have no plugins installed
       index:
-        cancel: キャンセル
+        cancel: "キャンセル"
         download_more_plugins_html: You can download and install sidebar plugins from our official <a href='https://github.com/fdv/publify/wiki/Sidebar-plugins'>plugin repository</a>. All you have to do is upload the theme directory in your vendor/plugins directory.
-        explain_how_its_works: ブログに表示するサイドバー項目をドラッグ＆ドロップで変更してください。サイドバーから項目を削除した場合はすぐに変更が保存されますが、「公開」ボタンを押すまでは有効になりません。
+        explain_how_its_works: "ブログに表示するサイドバー項目をドラッグ＆ドロップで変更してください。サイドバーから項目を削除した場合はすぐに変更が保存されますが、「公開」ボタンを押すまでは有効になりません。"
         or: or
-        publish_changes: 変更を公開
-        sidebar: サイドバー
+        publish_changes: "変更を公開"
+        sidebar: "サイドバー"
       target:
-        drag_some_plugins_here: サイドバーで利用するプラグインをドラッグしてください
+        drag_some_plugins_here: "サイドバーで利用するプラグインをドラッグしてください"
     tags:
       edit:
         success: Tag was successfully updated
       index_and_form:
-        cancel: キャンセル
-        display_name: 表示名
-        manage_tags: タグの管理
-        name: 名前
+        cancel: "キャンセル"
+        display_name: "表示名"
+        manage_tags: "タグの管理"
+        name: "名前"
         no_tags: There are no tags yet. Why don't you start and create one?
         or: or
-        save: 保存
+        save: "保存"
     themes:
       index:
         active_theme: "%{name} - 現在のテーマ"
-        choose_a_theme: テーマの選択
+        choose_a_theme: "テーマの選択"
         use_this_theme: Use this theme
       switchto:
         success: Theme selection updated
     users:
       edit:
-        edit_user: ユーザー編集
+        edit_user: "ユーザー編集"
       form:
         about: Biography
         account_settings: Account Settings
         aim: AIM screen name
-        article_filter: 記事フィルター
+        article_filter: "記事フィルター"
         author_page: author page
         avatar: Avatar Settings
         avatar_current: Current avatar
-        cancel: キャンセル
+        cancel: "キャンセル"
         contact_explain_html: This information will be displayed on your %{link}
         contact_settings: Contact Settings
         display_name: Display name
-        email: メールアドレス
+        email: "メールアドレス"
         firstname: First name
         jabber: Jabber ID
         lastname: Last name
-        login: ログイン
+        login: "ログイン"
         msn: MSN Messenger ID
         nickname: Nickname
         notification_article: when new article is posted
@@ -599,9 +599,9 @@ ja:
         or: or
         password: Password
         password_confirmation: Password confirmation
-        profile: プロフィール
+        profile: "プロフィール"
         profile_settings: Profile Settings
-        save: 保存
+        save: "保存"
         twitter: Twitter username
         twitter_account: Twitter username
         twitter_oauth: Twitter OAuth token
@@ -612,25 +612,25 @@ ja:
         website: Website
         yahoo: Yahoo! Messenger ID
       index:
-        articles: 記事
-        comments: コメント
-        email: メールアドレス
-        login: ログイン
-        name: 名前
-        new_user: 新規ユーザー
-        profile: プロフィール
-        state: 状態
-        users: ユーザー
+        articles: "記事"
+        comments: "コメント"
+        email: "メールアドレス"
+        login: "ログイン"
+        name: "名前"
+        new_user: "新規ユーザー"
+        profile: "プロフィール"
+        state: "状態"
+        users: "ユーザー"
       new:
-        add_user: ユーザーの追加
+        add_user: "ユーザーの追加"
         success: User was successfully created
   articles:
     archives:
-      no_articles_found: 記事が見つかりませんでした
+      no_articles_found: "記事が見つかりませんでした"
     archives_article:
-      posted_in: カテゴリ
+      posted_in: "カテゴリ"
     article:
-      posted_by: 投稿者
+      posted_by: "投稿者"
     article_excerpt:
       continue_reading: Continue reading
     article_links:
@@ -646,13 +646,13 @@ ja:
     comment_errors:
       message: Oops, something wrong happened, the comment could not be saved.
     comment_form:
-      comment_markup_help: コメントのマークアップヘルプ
+      comment_markup_help: "コメントのマークアップヘルプ"
       leave_url_email: leave url/email
-      preview_comment: 前のコメント
-      your_blog: ブログ
-      your_email: あなたのemail
-      your_message: メッセージ
-      your_name: あなたの名前
+      preview_comment: "前のコメント"
+      your_blog: "ブログ"
+      your_email: "あなたのemail"
+      your_message: "メッセージ"
+      your_name: "あなたの名前"
     comment_preview:
       is_about_to_say: "〜について言う"
     index:
@@ -660,11 +660,11 @@ ja:
     password_form:
       submit: Submit
     read:
-      comments: コメント
-      comments_are_disabled: コメントは許可されていません
+      comments: "コメント"
+      comments_are_disabled: "コメントは許可されていません"
       edit: Edit
-      leave_a_response: コメントを書く
-      rss_feed: この記事のRSSフィード
+      leave_a_response: "コメントを書く"
+      rss_feed: "この記事のRSSフィード"
       trackbacks: Trackbacks
     trackback:
       from: From
@@ -680,8 +680,8 @@ ja:
       yahoo: 'Yahoo:'
   comments:
     comment:
-      said: 発言
-      this_comment_has_been_flagged_for_moderator_approval: このコメントはモデレーターの確認が必要です。モデレーターが確認後にコメントが表示されます。
+      said: "発言"
+      this_comment_has_been_flagged_for_moderator_approval: "このコメントはモデレーターの確認が必要です。モデレーターが確認後にコメントが表示されます。"
   date:
     abbr_month_names:
     - 
@@ -725,7 +725,7 @@ ja:
     the_page_you_are_looking_for: The page you are looking for has moved or does not exist.
   generic:
     change: Change
-    save: 保存
+    save: "保存"
   helper:
     at: at
   langs:
@@ -767,7 +767,7 @@ ja:
       title: Hello World!
     index:
       blog_name: Blog name
-      password: パスワード
+      password: "パスワード"
       welcome_to_your_blog_setup: Welcome to your blog setup
       your_mail: Your email
     page:

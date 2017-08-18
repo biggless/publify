@@ -55,7 +55,7 @@ fr:
         published: Publié
         save: Sauver
         save_as_draft: Sauver comme brouillon
-        status: État
+        status: "État"
         tags: Labels
         tags_explanation_html: Séparez les tags par des virgules. Utilisez des doubles guillemets (&quot;) autour des tags composés de plusieurs mots, e.g. &quot;bureau de poste&quot;.
         title: Titre
@@ -67,7 +67,7 @@ fr:
         manage_articles: Gestion des articles
         new_article: Nouvel article
         publication_date: Publié le
-        publication_pending: À publier
+        publication_pending: "À publier"
         published: Publié
         search: Chercher
         select_an_author: Auteur
@@ -84,8 +84,8 @@ fr:
         no_drafts_yet: Pas de brouillons, pourquoi ne pas en écrire un ?
         your_drafts: Vos brouillons
       inbound:
-        at: à
-        at_an_unknown_date: à une date inconnue
+        at: "à"
+        at_an_unknown_date: "à une date inconnue"
         inbound_links: Liens entrants
         made_a_link_to_you_on: Faire un lien vers vous sur
         no_one_made_link_to_you_yet: Personne n'a encore fait de lien vers votre blog
@@ -101,7 +101,7 @@ fr:
         read_our_documentation: Consulter notre documentation
         update_your_profile_or_change_your_password: Mettre votre profil à jour ou changer votre mot de passe
         write_a_page: Publier une page statique
-        write_a_post: Écrire un article
+        write_a_post: "Écrire un article"
       publify_version:
         error: Vous avez au moins une version majeure de Publify de retard. Vous devriez immédiatement vous mettre à jour. Téléchargez et installez <a href='http://publify.co/stable.tgz'>la dernière version de Publify</a>
         notice: Une nouvelle version de Publify est disponible. Pouquoi n'installeriez-vous pas <a href='http://publify.co/stable.tgz'>la dernière version de Publify</a> ?
@@ -239,7 +239,7 @@ fr:
     notes:
       form:
         cancel: Annuler
-        compose_new_note: Écrire un nouveau billet
+        compose_new_note: "Écrire un nouveau billet"
         in_reply_to: En réponse à
         no_notes: 'Il n''y a pas encore de notes, pourquoi ne pas en créer une ? '
         now: Maintenant
@@ -254,7 +254,7 @@ fr:
         notes: Notes
       show:
         action_or_other_html: "%{first_action} ou %{second_action}"
-        are_you_sure: Êtes-vous certain de vouloir supprimer cette note ?
+        are_you_sure: "Êtes-vous certain de vouloir supprimer cette note ?"
         cancel: Annuler
         delete: Supprimer
         destroy_confirmation: Confirmation de suppression
@@ -271,7 +271,7 @@ fr:
         publish_settings: Paramètres de publication
         published: publiée
         save: Sauver
-        status: État
+        status: "État"
         title: Titre
         type_your_post: Tapez votre texte
       index:
@@ -315,7 +315,7 @@ fr:
       destroy:
         notice: Supprimé
       index:
-        are_you_sure: Êtes-vous sûr ?
+        are_you_sure: "Êtes-vous sûr ?"
         content_type: Type de contenu
         date: Date
         delete: Delete
@@ -493,11 +493,11 @@ fr:
         twitter_consumer_key: Clé d'utilisateur Twitter
         twitter_consumer_secret: Secret d'utilisateur sur Twitter
         update_settings: Mettre les paramètres à jour
-        write: Écrire
+        write: "Écrire"
         your_geoloc: vos coordonnées géographiques
     shared:
       destroy:
-        are_you_sure: Êtes-vous certain de vouloir supprimer ce/cette %{element}
+        are_you_sure: "Êtes-vous certain de vouloir supprimer ce/cette %{element}"
       menu:
         all_articles: All articles
         all_pages: All pages
@@ -539,8 +539,8 @@ fr:
         registered_your_application: Votre application a été enregistrée
     sidebar:
       config:
-        active_sidebar_items: Éléments utilisés
-        available_items: Éléments disponibles
+        active_sidebar_items: "Éléments utilisés"
+        available_items: "Éléments disponibles"
         you_have_no_plugins_installed: You have no plugins installed
       index:
         cancel: Annuler
@@ -619,7 +619,7 @@ fr:
         name: Nom
         new_user: Nouvel utilisateur
         profile: Profile
-        state: État
+        state: "État"
         users: Utilisateurs
       new:
         add_user: Ajouter un utilisateur
@@ -662,7 +662,7 @@ fr:
     read:
       comments: Commentaires
       comments_are_disabled: Les commentaires sont désactivés
-      edit: Éditer
+      edit: "Éditer"
       leave_a_response: Réagir à ce billet
       rss_feed: Flux RSS
       trackbacks: Rétroliens
@@ -727,7 +727,7 @@ fr:
     change: Modifier
     save: Sauver
   helper:
-    at: à
+    at: "à"
   langs:
     da_DK: Danois
     de_DE: Allemand
@@ -771,7 +771,7 @@ fr:
       welcome_to_your_blog_setup: Bienvenue dans la configuration de votre blog
       your_mail: Votre email
     page:
-      about: À propos de
+      about: "À propos de"
       body: Ceci est un exemple de page Publify. Vous pouvez la modifier pour écrire des informations sur vous ou sur votre blog, afin que vos lecteurs sachent qui vous êtes. Vous pouvez créer autant de pages que vous voulez et gérer tout votre contenu dans Publify.
   tags:
     index:

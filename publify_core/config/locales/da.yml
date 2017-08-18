@@ -93,7 +93,7 @@ da:
       index:
         welcome_back: Velkommen tilbage, %{user_name}!
       overview:
-        change_your_blog_presentation: ændre din blogs udseende
+        change_your_blog_presentation: "ændre din blogs udseende"
         customization_explain_html: Du kan også tilpasse designet, %{theme_link} eller %{sidebar_link}.
         dashboard_explain_html: Dette sted giver dig en hurtig oversigt over, hvad der sker på din Publify blog, og hvad du kan gøre. Måske du ønsker at %{available_actions}.
         enable_plugins: tilføje plugins

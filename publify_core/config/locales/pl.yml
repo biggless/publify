@@ -471,7 +471,7 @@ pl:
         items_to_display_in_admin_lists: Items to display in admin lists
         language: Język
         or: or
-        source_email: Źródłowy adres email
+        source_email: "Źródłowy adres email"
         update_settings: Update settings
         users: Użytkownicy
         your_blog: Twój blog
